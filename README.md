@@ -1,4 +1,4 @@
-# Graph-Database
+# Graph Database
 
 Our project: Learning how to properly use a graph database.
 
